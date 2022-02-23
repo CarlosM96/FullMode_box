@@ -14,7 +14,7 @@
 
 -data_to_GTP [31:0]: Output data in Full Mode format to GTP.
 
--k_o: Flag signal for special character for 8b/10b encoding.
+-k_o: Flag signal for special character for GTP 8b/10b encoder.
 
 -FIFO_re_OUT [39:0]: Logical array for reading signal of each FIFO_n
 
@@ -41,11 +41,11 @@ This will give you the FullMode_Box_SingleOutput.v file in the same folder.
 
 -data_to_GTP_0 [31:0]: Output data in Full Mode format to GTP (SFP0).
 
--k_o_0: Flag signal for special character for 8b/10b encoding (SFP0).
+-k_o_0: Flag signal for special character for GTP 8b/10b encoder. (SFP0).
 
 -data_to_GTP_1 [31:0]: Output data in Full Mode format to GTP (SFP1).
 
--k_o_1: Flag signal for special character for 8b/10b encoding (SFP1).
+-k_o_1: Flag signal for special character for GTP 8b/10b encoder. (SFP1).
 
 -FIFO_re_OUT [39:0]: Logical array for reading signal of each FIFO_n
 
