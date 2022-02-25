@@ -1,7 +1,7 @@
 #Create by: Carlos B. Montiel
 #
 #Institution: FIUNA Paraguay
-#File Name: Full Mode box single output.
+#File Name: control.py
 #Version: 2.0a
 
 from migen import *

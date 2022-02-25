@@ -1,3 +1,10 @@
+#Create by: Carlos B. Montiel
+#			Oscar Baez
+#			Ivan Gonzales
+#Institution: FIUNA Paraguay
+#File Name: MUX_20_CH.py
+#Version: 1.0a
+
 from migen import *
 from migen.fhdl import verilog
 

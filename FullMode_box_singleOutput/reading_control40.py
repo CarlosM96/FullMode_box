@@ -2,7 +2,7 @@
 #           Oscar Baez
 #           Ivan Gonzales
 #Institution: FIUNA Paraguay
-#File Name: Full Mode box single output.
+#File Name: reading_control40.py
 #Version: 1.0a
 
 from migen import *

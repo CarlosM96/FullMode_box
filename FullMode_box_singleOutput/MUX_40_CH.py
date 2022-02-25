@@ -2,7 +2,7 @@
 #			Oscar Baez
 #			Ivan Gonzales
 #Institution: FIUNA Paraguay
-#File Name: Full Mode box single output.
+#File Name: MUX_40_CH.py
 #Version: 1.0a
 
 from migen import *

@@ -1,7 +1,7 @@
 #Create by: Carlos B. Montiel
 #			
 #Institution: FIUNA Paraguay
-#File Name: Full Mode box single output.
+#File Name: tx.py (top of the Full Mode stream controller)
 #Version: 3.0a
 
 from migen import *

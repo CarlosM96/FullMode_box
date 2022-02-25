@@ -2,7 +2,7 @@
 #			Oscar Baez
 #			Ivan Gonzales
 #Institution: FIUNA Paraguay
-#File Name: Full Mode box single output.
+#File Name: FullMode_Box_SingleOutput.py (Top Module of Full Mode box)
 #Version: 1.0a
 
 from migen import *
